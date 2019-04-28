@@ -1,0 +1,814 @@
+C:\Users\Desktopadmin\Desktop\自己整理的CIT20140903\XIT\XIT\bin\Release\XIT.exe
+C:\Users\Desktopadmin\Desktop\自己整理的CIT20140903\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\自己整理的CIT20140903\XIT\XIT\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Desktopadmin\Desktop\自己整理的CIT20140903\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\Desktopadmin\Desktop\自己整理的CIT20140903\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\Desktopadmin\Desktop\自己整理的CIT20140903\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\Desktopadmin\Desktop\自己整理的CIT20140903\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\Desktopadmin\Desktop\自己整理的CIT20140903\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\Desktopadmin\Desktop\自己整理的CIT20140903\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\Desktopadmin\Desktop\自己整理的CIT20140903\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\Desktopadmin\Desktop\自己整理的CIT20140903\XIT\XIT\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Desktopadmin\Desktop\自己整理的CIT20140903\XIT\XIT\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Desktopadmin\Desktop\自己整理的CIT20140903\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\Desktopadmin\Desktop\自己整理的CIT20140903\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\自己整理的CIT20140916\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\Desktopadmin\Desktop\自己整理的CIT20140916\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\自己整理的CIT20140916\XIT\XIT\bin\Release\XIT.exe
+C:\Users\Desktopadmin\Desktop\自己整理的CIT20140916\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\自己整理的CIT20140916\XIT\XIT\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Desktopadmin\Desktop\自己整理的CIT20140916\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\Desktopadmin\Desktop\自己整理的CIT20140916\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\Desktopadmin\Desktop\自己整理的CIT20140916\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\Desktopadmin\Desktop\自己整理的CIT20140916\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\Desktopadmin\Desktop\自己整理的CIT20140916\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\Desktopadmin\Desktop\自己整理的CIT20140916\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\Desktopadmin\Desktop\自己整理的CIT20140916\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\Desktopadmin\Desktop\自己整理的CIT20140916\XIT\XIT\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Desktopadmin\Desktop\自己整理的CIT20140916\XIT\XIT\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Desktopadmin\Desktop\XIT\CIT版本\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\Desktopadmin\Desktop\XIT\CIT版本\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\XIT\CIT版本\CITV0.1 XP版本\XIT\XIT\bin\Release\XIT.exe
+C:\Users\Desktopadmin\Desktop\XIT\CIT版本\CITV0.1 XP版本\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\XIT\CIT版本\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Desktopadmin\Desktop\XIT\CIT版本\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\Desktopadmin\Desktop\XIT\CIT版本\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\Desktopadmin\Desktop\XIT\CIT版本\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\Desktopadmin\Desktop\XIT\CIT版本\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\Desktopadmin\Desktop\XIT\CIT版本\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\Desktopadmin\Desktop\XIT\CIT版本\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\Desktopadmin\Desktop\XIT\CIT版本\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\Desktopadmin\Desktop\XIT\CIT版本\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Desktopadmin\Desktop\XIT\CIT版本\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\GenerateResource.write.1.tlog
+D:\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\XIT.exe
+D:\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\XIT.pdb
+D:\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\ResolveAssemblyReference.cache
+D:\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+D:\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+D:\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+D:\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+D:\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+D:\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+D:\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+D:\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\GenerateResource.read.1.tlog
+D:\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\GenerateResource.write.1.tlog
+D:\CITV0.1 XP版本\XIT\XIT\bin\Release\XIT.exe
+D:\CITV0.1 XP版本\XIT\XIT\bin\Release\XIT.pdb
+F:\项目文档\CIT\C#代码\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\XIT.exe
+F:\项目文档\CIT\C#代码\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\XIT.pdb
+F:\项目文档\CIT\C#代码\CITV0.1 XP版本\XIT\XIT\bin\Release\XIT.exe
+F:\项目文档\CIT\C#代码\CITV0.1 XP版本\XIT\XIT\bin\Release\XIT.pdb
+F:\项目文档\CIT\C#代码\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\ResolveAssemblyReference.cache
+F:\项目文档\CIT\C#代码\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+F:\项目文档\CIT\C#代码\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+F:\项目文档\CIT\C#代码\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+F:\项目文档\CIT\C#代码\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+F:\项目文档\CIT\C#代码\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+F:\项目文档\CIT\C#代码\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+F:\项目文档\CIT\C#代码\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+F:\项目文档\CIT\C#代码\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\GenerateResource.read.1.tlog
+F:\项目文档\CIT\C#代码\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Documents and Settings\Administrator\桌面\CITV0.1 XP版本\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.exe
+C:\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\CITV0.1XP\XIT\XIT\bin\Release\XIT.exe
+C:\CITV0.1XP\XIT\XIT\bin\Release\XIT.pdb
+C:\CITV0.1XP\XIT\XIT\obj\x86\Release\ResolveAssemblyReference.cache
+C:\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.read.1.tlog
+C:\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\CITXP\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Documents and Settings\Administrator\桌面\CITXP\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Documents and Settings\Administrator\桌面\CITXP\CITV0.1XP\XIT\XIT\bin\Release\XIT.exe
+C:\Documents and Settings\Administrator\桌面\CITXP\CITV0.1XP\XIT\XIT\bin\Release\XIT.pdb
+C:\Documents and Settings\Administrator\桌面\CITXP\CITV0.1XP\XIT\XIT\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\CITXP\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Documents and Settings\Administrator\桌面\CITXP\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Documents and Settings\Administrator\桌面\CITXP\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Documents and Settings\Administrator\桌面\CITXP\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Documents and Settings\Administrator\桌面\CITXP\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Documents and Settings\Administrator\桌面\CITXP\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\CITXP\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Documents and Settings\Administrator\桌面\CITXP\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\CITXP\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.write.1.tlog
+C:\CITXP\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.exe
+C:\CITXP\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_9_28\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_9_28\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_9_28\CITV0.1XP\XIT\XIT\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_9_28\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_9_28\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_9_28\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_9_28\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_9_28\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_9_28\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_9_28\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_9_28\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_9_28\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_9_28\CITV0.1XP\XIT\XIT\bin\Release\XIT.exe
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_9_28\CITV0.1XP\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_28\CITXP2014_9_28\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_28\CITXP2014_9_28\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_28\CITXP2014_9_28\CITV0.1XP\XIT\XIT\bin\Release\XIT.exe
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_28\CITXP2014_9_28\CITV0.1XP\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_28\CITXP2014_9_28\CITV0.1XP\XIT\XIT\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_28\CITXP2014_9_28\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_28\CITXP2014_9_28\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_28\CITXP2014_9_28\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_28\CITXP2014_9_28\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_28\CITXP2014_9_28\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_28\CITXP2014_9_28\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_28\CITXP2014_9_28\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_28\CITXP2014_9_28\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_28\CITXP2014_9_28\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_28\CITXP2014_9_14\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_28\CITXP2014_9_14\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_28\CITXP2014_9_14\CITV0.1XP\XIT\XIT\bin\Release\XIT.exe
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_28\CITXP2014_9_14\CITV0.1XP\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_28\CITXP2014_9_14\CITV0.1XP\XIT\XIT\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_28\CITXP2014_9_14\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_28\CITXP2014_9_14\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_28\CITXP2014_9_14\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_28\CITXP2014_9_14\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_28\CITXP2014_9_14\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_28\CITXP2014_9_14\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_28\CITXP2014_9_14\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_28\CITXP2014_9_14\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_28\CITXP2014_9_14\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_14\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_14\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_14\CITV0.1XP\XIT\XIT\bin\Release\XIT.exe
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_14\CITV0.1XP\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_14\CITV0.1XP\XIT\XIT\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_14\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_14\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_14\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_14\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_14\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_14\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_14\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_14\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Desktopadmin\Desktop\CITXP2014_9_14\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_10_15\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_10_15\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_10_15\CITV0.1XP\XIT\XIT\bin\Release\XIT.exe
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_10_15\CITV0.1XP\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_10_15\CITV0.1XP\XIT\XIT\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_10_15\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_10_15\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_10_15\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_10_15\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_10_15\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_10_15\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_10_15\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_10_15\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_10_15\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_10_15\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_10_15 (预加声音测试版本)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_10_15 (预加声音测试版本)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_10_15 (预加声音测试版本)\CITV0.1XP\XIT\XIT\bin\Release\XIT.exe
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_10_15 (预加声音测试版本)\CITV0.1XP\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_10_15 (预加声音测试版本)\CITV0.1XP\XIT\XIT\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_10_15 (预加声音测试版本)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_10_15 (预加声音测试版本)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_10_15 (预加声音测试版本)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_10_15 (预加声音测试版本)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_10_15 (预加声音测试版本)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_10_15 (预加声音测试版本)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_10_15 (预加声音测试版本)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_10_15 (预加声音测试版本)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_10_15 (预加声音测试版本)\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Desktopadmin\Desktop\CIT版本\CITXP2014_10_15 (预加声音测试版本)\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.write.1.tlog
+E:\CITXP2014_10_15(voiceadd)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.exe
+E:\CITXP2014_10_15(voiceadd)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.pdb
+E:\CITXP2014_10_15(voiceadd)\CITV0.1XP\XIT\XIT\bin\Release\XIT.exe
+E:\CITXP2014_10_15(voiceadd)\CITV0.1XP\XIT\XIT\bin\Release\XIT.pdb
+E:\CITXP2014_10_15(voiceadd)\CITV0.1XP\XIT\XIT\obj\x86\Release\ResolveAssemblyReference.cache
+E:\CITXP2014_10_15(voiceadd)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+E:\CITXP2014_10_15(voiceadd)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+E:\CITXP2014_10_15(voiceadd)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+E:\CITXP2014_10_15(voiceadd)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+E:\CITXP2014_10_15(voiceadd)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+E:\CITXP2014_10_15(voiceadd)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+E:\CITXP2014_10_15(voiceadd)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+E:\CITXP2014_10_15(voiceadd)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+E:\CITXP2014_10_15(voiceadd)\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.read.1.tlog
+E:\CITXP2014_10_15(voiceadd)\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.write.1.tlog
+E:\CITXP2014_10_15(voiceaddanddeletecmd)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.exe
+E:\CITXP2014_10_15(voiceaddanddeletecmd)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.pdb
+E:\CITXP2014_10_15(voiceaddanddeletecmd)\CITV0.1XP\XIT\XIT\bin\Release\XIT.exe
+E:\CITXP2014_10_15(voiceaddanddeletecmd)\CITV0.1XP\XIT\XIT\bin\Release\XIT.pdb
+E:\CITXP2014_10_15(voiceaddanddeletecmd)\CITV0.1XP\XIT\XIT\obj\x86\Release\ResolveAssemblyReference.cache
+E:\CITXP2014_10_15(voiceaddanddeletecmd)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+E:\CITXP2014_10_15(voiceaddanddeletecmd)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+E:\CITXP2014_10_15(voiceaddanddeletecmd)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+E:\CITXP2014_10_15(voiceaddanddeletecmd)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+E:\CITXP2014_10_15(voiceaddanddeletecmd)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+E:\CITXP2014_10_15(voiceaddanddeletecmd)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+E:\CITXP2014_10_15(voiceaddanddeletecmd)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+E:\CITXP2014_10_15(voiceaddanddeletecmd)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+E:\CITXP2014_10_15(voiceaddanddeletecmd)\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.read.1.tlog
+E:\CITXP2014_10_15(voiceaddanddeletecmd)\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Lenovo\Desktop\CITXP2014_10_15(voiceaddanddeletecmd)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\Lenovo\Desktop\CITXP2014_10_15(voiceaddanddeletecmd)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\Lenovo\Desktop\CITXP2014_10_15(voiceaddanddeletecmd)\CITV0.1XP\XIT\XIT\bin\Release\XIT.exe
+C:\Users\Lenovo\Desktop\CITXP2014_10_15(voiceaddanddeletecmd)\CITV0.1XP\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\Lenovo\Desktop\CITXP2014_10_15(voiceaddanddeletecmd)\CITV0.1XP\XIT\XIT\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\CITXP2014_10_15(voiceaddanddeletecmd)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\Lenovo\Desktop\CITXP2014_10_15(voiceaddanddeletecmd)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\Lenovo\Desktop\CITXP2014_10_15(voiceaddanddeletecmd)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\Lenovo\Desktop\CITXP2014_10_15(voiceaddanddeletecmd)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\Lenovo\Desktop\CITXP2014_10_15(voiceaddanddeletecmd)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\Lenovo\Desktop\CITXP2014_10_15(voiceaddanddeletecmd)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+C:\Users\Lenovo\Desktop\CITXP2014_10_15(voiceaddanddeletecmd)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\CITXP2014_10_15(voiceaddanddeletecmd)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\Lenovo\Desktop\CITXP2014_10_15(voiceaddanddeletecmd)\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Lenovo\Desktop\CITXP2014_10_15(voiceaddanddeletecmd)\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.CreateVoiceSampleFile.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\bin\Release\XIT.exe
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\bin\Release\XIT.pdb
+C:\CITXP2014_10_15(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.exe
+C:\CITXP2014_10_15(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\CITXP2014_10_15(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\ResolveAssemblyReference.cache
+C:\CITXP2014_10_15(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.CreateVoiceSampleFile.resources
+C:\CITXP2014_10_15(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\CITXP2014_10_15(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\CITXP2014_10_15(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\CITXP2014_10_15(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\CITXP2014_10_15(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\CITXP2014_10_15(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+C:\CITXP2014_10_15(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\CITXP2014_10_15(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\CITXP2014_10_15(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.read.1.tlog
+C:\CITXP2014_10_15(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.write.1.tlog
+C:\CITXP2014_10_15(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\bin\Release\XIT.exe
+C:\CITXP2014_10_15(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\Lenovo\Desktop\CITXP2014_10_23(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\Lenovo\Desktop\CITXP2014_10_23(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\Lenovo\Desktop\CITXP2014_10_23(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\bin\Release\XIT.exe
+C:\Users\Lenovo\Desktop\CITXP2014_10_23(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\Lenovo\Desktop\CITXP2014_10_23(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\CITXP2014_10_23(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.CreateVoiceSampleFile.resources
+C:\Users\Lenovo\Desktop\CITXP2014_10_23(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\Lenovo\Desktop\CITXP2014_10_23(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\Lenovo\Desktop\CITXP2014_10_23(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\Lenovo\Desktop\CITXP2014_10_23(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\Lenovo\Desktop\CITXP2014_10_23(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\Lenovo\Desktop\CITXP2014_10_23(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+C:\Users\Lenovo\Desktop\CITXP2014_10_23(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\CITXP2014_10_23(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\Lenovo\Desktop\CITXP2014_10_23(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Lenovo\Desktop\CITXP2014_10_23(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_23(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_23(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_23(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\bin\Release\XIT.exe
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_23(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_23(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_23(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.CreateVoiceSampleFile.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_23(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_23(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_23(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_23(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_23(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_23(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_23(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_23(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_23(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_23(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_23(AddCreateSampleFile)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.unlockSetting.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_23(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_23(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_23(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\bin\Release\XIT.exe
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_23(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_23(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_23(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.CreateVoiceSampleFile.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_23(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_23(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_23(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_23(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_23(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_23(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_23(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_23(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_23(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.unlockSetting.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_23(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_23(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\bin\Release\XIT.exe
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.CreateVoiceSampleFile.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.unlockSetting.resources
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\Desktopadmin\Desktop\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\CIT_VISION\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\Desktopadmin\Desktop\CIT_VISION\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\CIT_VISION\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\bin\Release\XIT.exe
+C:\Users\Desktopadmin\Desktop\CIT_VISION\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\CIT_VISION\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Desktopadmin\Desktop\CIT_VISION\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.CreateVoiceSampleFile.resources
+C:\Users\Desktopadmin\Desktop\CIT_VISION\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\Desktopadmin\Desktop\CIT_VISION\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\Desktopadmin\Desktop\CIT_VISION\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\Desktopadmin\Desktop\CIT_VISION\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\Desktopadmin\Desktop\CIT_VISION\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\Desktopadmin\Desktop\CIT_VISION\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+C:\Users\Desktopadmin\Desktop\CIT_VISION\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\Desktopadmin\Desktop\CIT_VISION\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\Desktopadmin\Desktop\CIT_VISION\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.unlockSetting.resources
+C:\Users\Desktopadmin\Desktop\CIT_VISION\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Desktopadmin\Desktop\CIT_VISION\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\bin\Release\XIT.exe
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.CreateVoiceSampleFile.resources
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.unlockSetting.resources
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Documents and Settings\Administrator\桌面\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.exe
+C:\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\bin\Release\XIT.exe
+C:\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\bin\Release\XIT.pdb
+C:\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\ResolveAssemblyReference.cache
+C:\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.CreateVoiceSampleFile.resources
+C:\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+C:\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.unlockSetting.resources
+C:\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.read.1.tlog
+C:\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.write.1.tlog
+I:\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.exe
+I:\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\bin\Release\XIT.exe
+I:\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\bin\Release\XIT.pdb
+I:\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\ResolveAssemblyReference.cache
+I:\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.CreateVoiceSampleFile.resources
+I:\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+I:\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+I:\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+I:\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+I:\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+I:\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+I:\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+I:\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+I:\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.unlockSetting.resources
+I:\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.read.1.tlog
+I:\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\GenerateResource.write.1.tlog
+I:\CITXP2014_10_28(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_11_05(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_11_05(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_11_05(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.CreateVoiceSampleFile.resources
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_11_05(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_11_05(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_11_05(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_11_05(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_11_05(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_11_05(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_11_05(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_11_05(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_11_05(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.unlockSetting.resources
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_11_05(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\obj\x86\Release\XIT.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_11_05(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\bin\Release\XIT.exe
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_11_05(AddDll1.12.1)\CITXP2014_10_27(AddCreateSampleFile1.11.6)\CITXP2014_10_15(AddCreateSampleFile)\CITV0.1XP\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_11_05(AddDll1.12.1)\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_11_05(AddDll1.12.1)\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_11_05(AddDll1.12.1)\XIT\XIT\bin\Release\XIT.exe
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_11_05(AddDll1.12.1)\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_11_05(AddDll1.12.1)\XIT\XIT\obj\x86\Release\XIT.CreateVoiceSampleFile.resources
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_11_05(AddDll1.12.1)\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_11_05(AddDll1.12.1)\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_11_05(AddDll1.12.1)\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_11_05(AddDll1.12.1)\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_11_05(AddDll1.12.1)\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_11_05(AddDll1.12.1)\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_11_05(AddDll1.12.1)\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_11_05(AddDll1.12.1)\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_11_05(AddDll1.12.1)\XIT\XIT\obj\x86\Release\XIT.unlockSetting.resources
+C:\Users\Lenovo\Desktop\CIT_VISION\CITXP2014_11_05(AddDll1.12.1)\XIT\XIT\obj\x86\Release\XIT.csproj.GenerateResource.Cache
+C:\Users\minghui.zhang\Desktop\CIT_VISION\CITXP2014_11_05(AddDll1.12.1)\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\minghui.zhang\Desktop\CIT_VISION\CITXP2014_11_05(AddDll1.12.1)\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\CIT_VISION\CITXP2014_11_10(AddDll1.12.2)\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\Desktopadmin\Desktop\CIT_VISION\CITXP2014_11_10(AddDll1.12.2)\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\CIT_VISION\CITXP2014_11_10(AddDll1.12.2)\XIT\XIT\bin\Release\XIT.exe
+C:\Users\Desktopadmin\Desktop\CIT_VISION\CITXP2014_11_10(AddDll1.12.2)\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\CIT_VISION\CITXP2014_11_10(AddDll1.12.2)\XIT\XIT\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Desktopadmin\Desktop\CIT_VISION\CITXP2014_11_10(AddDll1.12.2)\XIT\XIT\obj\x86\Release\XIT.CreateVoiceSampleFile.resources
+C:\Users\Desktopadmin\Desktop\CIT_VISION\CITXP2014_11_10(AddDll1.12.2)\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\Desktopadmin\Desktop\CIT_VISION\CITXP2014_11_10(AddDll1.12.2)\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\Desktopadmin\Desktop\CIT_VISION\CITXP2014_11_10(AddDll1.12.2)\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\Desktopadmin\Desktop\CIT_VISION\CITXP2014_11_10(AddDll1.12.2)\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\Desktopadmin\Desktop\CIT_VISION\CITXP2014_11_10(AddDll1.12.2)\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\Desktopadmin\Desktop\CIT_VISION\CITXP2014_11_10(AddDll1.12.2)\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+C:\Users\Desktopadmin\Desktop\CIT_VISION\CITXP2014_11_10(AddDll1.12.2)\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\Desktopadmin\Desktop\CIT_VISION\CITXP2014_11_10(AddDll1.12.2)\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\Desktopadmin\Desktop\CIT_VISION\CITXP2014_11_10(AddDll1.12.2)\XIT\XIT\obj\x86\Release\XIT.unlockSetting.resources
+C:\Users\Desktopadmin\Desktop\CIT_VISION\CITXP2014_11_10(AddDll1.12.2)\XIT\XIT\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Desktopadmin\Desktop\CIT_VISION\CITXP2014_11_10(AddDll1.12.2)\XIT\XIT\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_11_12(AddDll1.12.2)\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_11_12(AddDll1.12.2)\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_11_12(AddDll1.12.2)\XIT\XIT\bin\Release\XIT.exe
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_11_12(AddDll1.12.2)\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_11_12(AddDll1.12.2)\XIT\XIT\obj\x86\Release\XIT.CreateVoiceSampleFile.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_11_12(AddDll1.12.2)\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_11_12(AddDll1.12.2)\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_11_12(AddDll1.12.2)\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_11_12(AddDll1.12.2)\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_11_12(AddDll1.12.2)\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_11_12(AddDll1.12.2)\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_11_12(AddDll1.12.2)\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_11_12(AddDll1.12.2)\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_11_12(AddDll1.12.2)\XIT\XIT\obj\x86\Release\XIT.unlockSetting.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_11_12(AddDll1.12.2)\XIT\XIT\obj\x86\Release\XIT.csproj.GenerateResource.Cache
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_11_12(NOReceiver)\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_11_12(NOReceiver)\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_11_12(NOReceiver)\XIT\XIT\bin\Release\XIT.exe
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_11_12(NOReceiver)\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_11_12(NOReceiver)\XIT\XIT\obj\x86\Release\XIT.CreateVoiceSampleFile.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_11_12(NOReceiver)\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_11_12(NOReceiver)\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_11_12(NOReceiver)\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_11_12(NOReceiver)\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_11_12(NOReceiver)\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_11_12(NOReceiver)\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_11_12(NOReceiver)\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_11_12(NOReceiver)\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_11_12(NOReceiver)\XIT\XIT\obj\x86\Release\XIT.unlockSetting.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_11_12(NOReceiver)\XIT\XIT\obj\x86\Release\XIT.csproj.GenerateResource.Cache
+E:\CIT_VISION\CITXP2014_12_1(NOReceiver)\XIT\XIT\obj\x86\Release\XIT.exe
+E:\CIT_VISION\CITXP2014_12_1(NOReceiver)\XIT\XIT\obj\x86\Release\XIT.pdb
+E:\CIT_VISION\CITXP2014_12_1(NOReceiver)\XIT\XIT\bin\Release\XIT.exe
+E:\CIT_VISION\CITXP2014_12_1(NOReceiver)\XIT\XIT\bin\Release\XIT.pdb
+E:\CIT_VISION\CITXP2014_12_1(NOReceiver)\XIT\XIT\obj\x86\Release\ResolveAssemblyReference.cache
+E:\CIT_VISION\CITXP2014_12_1(NOReceiver)\XIT\XIT\obj\x86\Release\XIT.CreateVoiceSampleFile.resources
+E:\CIT_VISION\CITXP2014_12_1(NOReceiver)\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+E:\CIT_VISION\CITXP2014_12_1(NOReceiver)\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+E:\CIT_VISION\CITXP2014_12_1(NOReceiver)\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+E:\CIT_VISION\CITXP2014_12_1(NOReceiver)\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+E:\CIT_VISION\CITXP2014_12_1(NOReceiver)\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+E:\CIT_VISION\CITXP2014_12_1(NOReceiver)\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+E:\CIT_VISION\CITXP2014_12_1(NOReceiver)\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+E:\CIT_VISION\CITXP2014_12_1(NOReceiver)\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+E:\CIT_VISION\CITXP2014_12_1(NOReceiver)\XIT\XIT\obj\x86\Release\XIT.unlockSetting.resources
+E:\CIT_VISION\CITXP2014_12_1(NOReceiver)\XIT\XIT\obj\x86\Release\GenerateResource.read.1.tlog
+E:\CIT_VISION\CITXP2014_12_1(NOReceiver)\XIT\XIT\obj\x86\Release\GenerateResource.write.1.tlog
+E:\CIT_VISION\CITXP2014_12_1(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.exe
+E:\CIT_VISION\CITXP2014_12_1(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.pdb
+E:\CIT_VISION\CITXP2014_12_1(ADDScreen)\XIT\XIT\bin\Release\XIT.exe
+E:\CIT_VISION\CITXP2014_12_1(ADDScreen)\XIT\XIT\bin\Release\XIT.pdb
+E:\CIT_VISION\CITXP2014_12_1(ADDScreen)\XIT\XIT\obj\x86\Release\ResolveAssemblyReference.cache
+E:\CIT_VISION\CITXP2014_12_1(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.CreateVoiceSampleFile.resources
+E:\CIT_VISION\CITXP2014_12_1(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+E:\CIT_VISION\CITXP2014_12_1(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+E:\CIT_VISION\CITXP2014_12_1(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+E:\CIT_VISION\CITXP2014_12_1(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+E:\CIT_VISION\CITXP2014_12_1(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+E:\CIT_VISION\CITXP2014_12_1(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+E:\CIT_VISION\CITXP2014_12_1(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+E:\CIT_VISION\CITXP2014_12_1(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+E:\CIT_VISION\CITXP2014_12_1(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.unlockSetting.resources
+E:\CIT_VISION\CITXP2014_12_1(ADDScreen)\XIT\XIT\obj\x86\Release\GenerateResource.read.1.tlog
+E:\CIT_VISION\CITXP2014_12_1(ADDScreen)\XIT\XIT\obj\x86\Release\GenerateResource.write.1.tlog
+E:\CIT_VISION\CITXP2014_12_1(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.unlockScreenControl.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_1(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_1(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_1(ADDScreen)\XIT\XIT\bin\Release\XIT.exe
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_1(ADDScreen)\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_1(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.CreateVoiceSampleFile.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_1(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_1(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_1(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_1(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_1(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_1(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_1(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_1(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_1(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.unlockScreenControl.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_1(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.unlockSetting.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_1(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.csproj.GenerateResource.Cache
+E:\CIT_VISION\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.exe
+E:\CIT_VISION\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.pdb
+E:\CIT_VISION\CITXP2014_12_6(ADDScreen)\XIT\XIT\bin\Release\XIT.exe
+E:\CIT_VISION\CITXP2014_12_6(ADDScreen)\XIT\XIT\bin\Release\XIT.pdb
+E:\CIT_VISION\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\ResolveAssemblyReference.cache
+E:\CIT_VISION\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.CreateVoiceSampleFile.resources
+E:\CIT_VISION\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+E:\CIT_VISION\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+E:\CIT_VISION\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+E:\CIT_VISION\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+E:\CIT_VISION\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+E:\CIT_VISION\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+E:\CIT_VISION\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+E:\CIT_VISION\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+E:\CIT_VISION\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.unlockScreenControl.resources
+E:\CIT_VISION\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.unlockSetting.resources
+E:\CIT_VISION\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\GenerateResource.read.1.tlog
+E:\CIT_VISION\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_6(ADDScreen)\XIT\XIT\bin\Release\XIT.exe
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_6(ADDScreen)\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.CreateVoiceSampleFile.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.unlockScreenControl.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.unlockSetting.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.csproj.GenerateResource.Cache
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.csprojResolveAssemblyReference.cache
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_6(ADDScreen)\XIT\XIT\bin\Release\XIT.exe
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_6(ADDScreen)\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.CreateVoiceSampleFile.resources
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.unlockScreenControl.resources
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.unlockSetting.resources
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_6(ADDScreen)\XIT\XIT\obj\x86\Release\GenerateResource.write.1.tlog
+E:\CIT_VISION\CITXP2014_12_11(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.exe
+E:\CIT_VISION\CITXP2014_12_11(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.pdb
+E:\CIT_VISION\CITXP2014_12_11(ADDScreen)\XIT\XIT\bin\Release\XIT.exe
+E:\CIT_VISION\CITXP2014_12_11(ADDScreen)\XIT\XIT\bin\Release\XIT.pdb
+E:\CIT_VISION\CITXP2014_12_11(ADDScreen)\XIT\XIT\obj\x86\Release\ResolveAssemblyReference.cache
+E:\CIT_VISION\CITXP2014_12_11(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.CreateVoiceSampleFile.resources
+E:\CIT_VISION\CITXP2014_12_11(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+E:\CIT_VISION\CITXP2014_12_11(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+E:\CIT_VISION\CITXP2014_12_11(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+E:\CIT_VISION\CITXP2014_12_11(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+E:\CIT_VISION\CITXP2014_12_11(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+E:\CIT_VISION\CITXP2014_12_11(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+E:\CIT_VISION\CITXP2014_12_11(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+E:\CIT_VISION\CITXP2014_12_11(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+E:\CIT_VISION\CITXP2014_12_11(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.unlockScreenControl.resources
+E:\CIT_VISION\CITXP2014_12_11(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.unlockSetting.resources
+E:\CIT_VISION\CITXP2014_12_11(ADDScreen)\XIT\XIT\obj\x86\Release\GenerateResource.read.1.tlog
+E:\CIT_VISION\CITXP2014_12_11(ADDScreen)\XIT\XIT\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_11(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_11(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_11(ADDScreen)\XIT\XIT\bin\Release\XIT.exe
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_11(ADDScreen)\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_11(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.CreateVoiceSampleFile.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_11(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_11(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_11(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_11(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_11(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_11(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_11(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_11(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_11(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.unlockScreenControl.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_11(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.unlockSetting.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_11(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.csproj.GenerateResource.Cache
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_11(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.csprojResolveAssemblyReference.cache
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_17(ADDScreen) - 副本\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_17(ADDScreen) - 副本\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_17(ADDScreen) - 副本\XIT\XIT\obj\x86\Release\XIT.csprojResolveAssemblyReference.cache
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_17(ADDScreen) - 副本\XIT\XIT\obj\x86\Release\XIT.CreateVoiceSampleFile.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_17(ADDScreen) - 副本\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_17(ADDScreen) - 副本\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_17(ADDScreen) - 副本\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_17(ADDScreen) - 副本\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_17(ADDScreen) - 副本\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_17(ADDScreen) - 副本\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_17(ADDScreen) - 副本\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_17(ADDScreen) - 副本\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_17(ADDScreen) - 副本\XIT\XIT\obj\x86\Release\XIT.unlockScreenControl.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_17(ADDScreen) - 副本\XIT\XIT\obj\x86\Release\XIT.unlockSetting.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_17(ADDScreen) - 副本\XIT\XIT\obj\x86\Release\XIT.csproj.GenerateResource.Cache
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_17(ADDScreen) - 副本\XIT\XIT\bin\Release\XIT.exe
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_17(ADDScreen) - 副本\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_17(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_17(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_17(ADDScreen)\XIT\XIT\bin\Release\XIT.exe
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_17(ADDScreen)\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_17(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.CreateVoiceSampleFile.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_17(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_17(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_17(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_17(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_17(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_17(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_17(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_17(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_17(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.unlockScreenControl.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_17(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.unlockSetting.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_17(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.csproj.GenerateResource.Cache
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_17(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_17(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_17(ADDScreen)\XIT\XIT\bin\Release\XIT.exe
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_17(ADDScreen)\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_17(ADDScreen)\XIT\XIT\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_17(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.CreateVoiceSampleFile.resources
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_17(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_17(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_17(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_17(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_17(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_17(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_17(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_17(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_17(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.unlockScreenControl.resources
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_17(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.unlockSetting.resources
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_17(ADDScreen)\XIT\XIT\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Desktopadmin\Desktop\CIT\CITXP2014_12_17(ADDScreen)\XIT\XIT\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(ADDScreen)\XIT\XIT\bin\Release\XIT.exe
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(ADDScreen)\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.CreateVoiceSampleFile.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.unlockScreenControl.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.unlockSetting.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(ADDScreen)\XIT\XIT\obj\x86\Release\XIT.csproj.GenerateResource.Cache
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(ADDScreenAndNoReceiver)\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(ADDScreenAndNoReceiver)\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(ADDScreenAndNoReceiver)\XIT\XIT\bin\Release\XIT.exe
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(ADDScreenAndNoReceiver)\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(ADDScreenAndNoReceiver)\XIT\XIT\obj\x86\Release\XIT.CreateVoiceSampleFile.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(ADDScreenAndNoReceiver)\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(ADDScreenAndNoReceiver)\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(ADDScreenAndNoReceiver)\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(ADDScreenAndNoReceiver)\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(ADDScreenAndNoReceiver)\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(ADDScreenAndNoReceiver)\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(ADDScreenAndNoReceiver)\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(ADDScreenAndNoReceiver)\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(ADDScreenAndNoReceiver)\XIT\XIT\obj\x86\Release\XIT.unlockScreenControl.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(ADDScreenAndNoReceiver)\XIT\XIT\obj\x86\Release\XIT.unlockSetting.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(ADDScreenAndNoReceiver)\XIT\XIT\obj\x86\Release\XIT.csproj.GenerateResource.Cache
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(ADDScreenAndNoReceiver)\XIT\XIT\obj\x86\Release\XIT.csprojResolveAssemblyReference.cache
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(P660)\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(P660)\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(P660)\XIT\XIT\bin\Release\XIT.exe
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(P660)\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(P660)\XIT\XIT\obj\x86\Release\XIT.csprojResolveAssemblyReference.cache
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(P660)\XIT\XIT\obj\x86\Release\XIT.CreateVoiceSampleFile.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(P660)\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(P660)\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(P660)\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(P660)\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(P660)\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(P660)\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(P660)\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(P660)\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(P660)\XIT\XIT\obj\x86\Release\XIT.unlockScreenControl.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(P660)\XIT\XIT\obj\x86\Release\XIT.unlockSetting.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2014_12_22(P660)\XIT\XIT\obj\x86\Release\XIT.csproj.GenerateResource.Cache
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660)\XIT\XIT\bin\Release\XIT.exe
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660)\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660)\XIT\XIT\obj\x86\Release\XIT.CreateVoiceSampleFile.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660)\XIT\XIT\obj\x86\Release\XIT.DevicesSelect.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660)\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660)\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660)\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660)\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660)\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660)\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660)\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660)\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660)\XIT\XIT\obj\x86\Release\XIT.unlockScreenControl.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660)\XIT\XIT\obj\x86\Release\XIT.unlockSetting.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660)\XIT\XIT\obj\x86\Release\XIT.csproj.GenerateResource.Cache
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660)\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660)\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660)\XIT\XIT\obj\x86\Release\XIT.csprojResolveAssemblyReference.cache
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660SubMIC)\XIT\XIT\bin\Release\XIT.exe
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660SubMIC)\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.csprojResolveAssemblyReference.cache
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.CreateVoiceSampleFile.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.DevicesSelect.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.unlockScreenControl.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.unlockSetting.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_16(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.csproj.GenerateResource.Cache
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_29(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_29(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_29(P660SubMIC)\XIT\XIT\bin\Release\XIT.exe
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_29(P660SubMIC)\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_29(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.csprojResolveAssemblyReference.cache
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_29(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.CreateVoiceSampleFile.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_29(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.DevicesSelect.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_29(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_29(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_29(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_29(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_29(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_29(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_29(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_29(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_29(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.unlockScreenControl.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_29(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.unlockSetting.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_01_29(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.csproj.GenerateResource.Cache
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC) - 副本\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC) - 副本\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC) - 副本\XIT\XIT\bin\Release\XIT.exe
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC) - 副本\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC) - 副本\XIT\XIT\obj\x86\Release\XIT.csprojResolveAssemblyReference.cache
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC) - 副本\XIT\XIT\obj\x86\Release\XIT.CreateVoiceSampleFile.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC) - 副本\XIT\XIT\obj\x86\Release\XIT.DevicesSelect.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC) - 副本\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC) - 副本\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC) - 副本\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC) - 副本\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC) - 副本\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC) - 副本\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC) - 副本\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC) - 副本\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC) - 副本\XIT\XIT\obj\x86\Release\XIT.unlockScreenControl.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC) - 副本\XIT\XIT\obj\x86\Release\XIT.unlockSetting.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC) - 副本\XIT\XIT\obj\x86\Release\XIT.csproj.GenerateResource.Cache
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.exe
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.pdb
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC)\XIT\XIT\bin\Release\XIT.exe
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC)\XIT\XIT\bin\Release\XIT.pdb
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.csprojResolveAssemblyReference.cache
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.CreateVoiceSampleFile.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.DevicesSelect.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.Form1.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.Form2.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.Form3.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.Form4.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.Form5.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.PassWordForm.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.Properties.Resources.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.SingTest.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.unlockScreenControl.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.unlockSetting.resources
+C:\Users\minghui.zhang\Desktop\项目文档\CIT_VISION\CITXP2015_3_11(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.csproj.GenerateResource.Cache
+D:\项目文档\整机自动化测试\CITXP2015_3_11(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.exe
+D:\项目文档\整机自动化测试\CITXP2015_3_11(P660SubMIC)\XIT\XIT\obj\x86\Release\XIT.pdb

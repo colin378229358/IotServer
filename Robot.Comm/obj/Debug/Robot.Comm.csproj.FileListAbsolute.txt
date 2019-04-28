@@ -1,0 +1,11 @@
+E:\工作项目\Sweet\点甜机器人\IotServer\Robot.Comm\bin\Debug\log4net.config
+E:\工作项目\Sweet\点甜机器人\IotServer\Robot.Comm\bin\Debug\Robot.Comm.dll
+E:\工作项目\Sweet\点甜机器人\IotServer\Robot.Comm\bin\Debug\Robot.Comm.pdb
+E:\工作项目\Sweet\点甜机器人\IotServer\Robot.Comm\bin\Debug\FrameWork.SocketServer.dll
+E:\工作项目\Sweet\点甜机器人\IotServer\Robot.Comm\bin\Debug\log4net.dll
+E:\工作项目\Sweet\点甜机器人\IotServer\Robot.Comm\bin\Debug\Robot.Provider.dll
+E:\工作项目\Sweet\点甜机器人\IotServer\Robot.Comm\bin\Debug\Robot.Provider.pdb
+E:\工作项目\Sweet\点甜机器人\IotServer\Robot.Comm\bin\Debug\log4net.xml
+E:\工作项目\Sweet\点甜机器人\IotServer\Robot.Comm\obj\Debug\Robot.Comm.csprojResolveAssemblyReference.cache
+E:\工作项目\Sweet\点甜机器人\IotServer\Robot.Comm\obj\Debug\Robot.Comm.dll
+E:\工作项目\Sweet\点甜机器人\IotServer\Robot.Comm\obj\Debug\Robot.Comm.pdb

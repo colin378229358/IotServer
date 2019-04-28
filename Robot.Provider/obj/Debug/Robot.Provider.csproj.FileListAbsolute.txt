@@ -1,0 +1,4 @@
+E:\工作项目\Sweet\点甜机器人\IotServer\Robot.Provider\bin\Debug\Robot.Provider.dll
+E:\工作项目\Sweet\点甜机器人\IotServer\Robot.Provider\bin\Debug\Robot.Provider.pdb
+E:\工作项目\Sweet\点甜机器人\IotServer\Robot.Provider\obj\Debug\Robot.Provider.dll
+E:\工作项目\Sweet\点甜机器人\IotServer\Robot.Provider\obj\Debug\Robot.Provider.pdb

@@ -1,0 +1,30 @@
+adb install FactoryAutoTest.apk
+adb install test30
+abd install test31
+adb install test32
+adb push 200Hz.wav /sdcard/
+adb push gpsTest.apk /system/priv-app/gpsTest.apk
+adb push ft_fmconfig /system/bin/
+adb push NFCTestAPK.apk /system/app/NFCTestAPK.apk
+
+adb pull /sdcard/MicSoundRec.amr .\VoiceSampleNew\MicSoundRec.amr
+adb pull /sdcard/HeadSetMicSoundRec.amr .\VoiceSampleNew\HeadSetMicSoundRec.amr
+adb pull /sdcard/SubMicSoundRec.amr .\VoiceSampleNew\SubMicSoundRec.amr
+adb pull /sdcard/test.wav .\VoiceSampleNew\test.wav
+adb pull /sdcard/PictureTest.png .\
+adb pull /sdcard/frontcameratest.jpg .\Picturesave\frontcameratest.jpg
+adb pull /sdcard/rearcamerattest.jpg .\PictureSave\rearcameratest.jpg
+adb pull /sdcard/factorytest.ini .\
+
+
+查看路径下名称：
+adb shell ls /sdcard/
+adb shell ls /system/priv-app/
+
+
+安装后在/data/app/下：
+com.fx.factoryautotest-1.apk 
+com.fx.simtest-1.apk
+com.fx.sim1test-1.apk
+com.fx.sim2test-1.apk
+

@@ -1,0 +1,18 @@
+带参数的apk：
+BluetoothActivity 20
+ButtonActivity 15
+ChargerActivity 5
+CompassTestActivity 8
+EdgeActivity 10
+GSensorActivity 5
+GyroscopeTestActivity 5
+HeadSetExistActivity 5
+LcdBackLightActivity 10
+LightSensorActivity 5
+PointerLocationActivity 65
+PressureTestActivity 5
+ProximitySensorActivity 10
+ReadSnActivity 3
+SDcardActivity 3
+TpActivity 10
+WifiActivity 10
